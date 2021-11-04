@@ -1,0 +1,1 @@
+SELECT name, population/area AS density FROM cities order by density DESC LIMIT 3;

@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bigcities;
+
+CREATE DATABASE bigCities;

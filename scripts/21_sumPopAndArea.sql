@@ -1,0 +1,1 @@
+SELECT sum(population) as total_pop, sum(area) as total_area from cities;

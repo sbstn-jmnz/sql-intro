@@ -1,0 +1,1 @@
+SELECT MIN(population) FROM cities;
